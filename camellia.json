@@ -1,0 +1,29 @@
+
+{
+  "response": [
+    {
+        "maintainer": "AYUSH",
+        "oem": "Xiaomi",
+        "device": "Camellia",
+        "filename": "risingOS-v1.7-HYDRO-LTS-202510121021-camellia-GAPPS-COMMUNITY.zip",
+        "download": "",
+        "timestamp": 1760264319,
+        "md5": "8c11b2ade77326f1c8b300e95bf9a12e",
+        "sha256": "0688c5271b2ad9529d450ffe207439ac8c3ad5e75bb448c441974954d2fea69b",
+        "size": 1428696189,
+        "version": "v1.7-HYDRO",
+        "buildtype": "",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/ayushbuildforcamellia",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
