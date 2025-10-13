@@ -1,3 +1,7 @@
-===== 12 October 2025 =====
+===== 13 October 2025 =====
 
-* Inital build
+• Signed build
+• Basic integrity passing by default 
+• Added per game spoof config
+• August Patch
+• OTA supported
