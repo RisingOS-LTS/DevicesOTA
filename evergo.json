@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Addster",
+                        "oem": "Xiaomi",
+                        "device": "Everpal",
+                        "filename": "risingOS-v1.7-HYDRO-LTS-202510132005-everpal-GAPPS-COMMUNITY.zip",
+                        "download": "https://github.com/Addster09/EverpalCustomRoms/releases/download/RisingOS-LTS/risingOS-v1.7-HYDRO-LTS-202510132005-everpal-GAPPS-COMMUNITY.zip",
+                        "timestamp": 1760385929,
+                        "md5": "eb2c8d6c0d217703aa02cf73747404fe",
+                        "sha256": "c566c169f0337fbd58b5b6738399c8cc05a897b1710efb97f9599914a111185b",
+                        "size": 1318123863,
+                        "version": "v1.4-HYDRO",
+                        "buildtype": "",
+                        "forum": "https://t.me/Addstersdump",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/addsterdump",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
