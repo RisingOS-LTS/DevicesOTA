@@ -1,3 +1,10 @@
+===== 15 October 2025 =====
+• Improve Battery Backup when device is on idle mode
+• Improve animation
+• Signed build
+• September Patch
+• OTA supported
+
 ===== 13 October 2025 =====
 
 • Signed build
