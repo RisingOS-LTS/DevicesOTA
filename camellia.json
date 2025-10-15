@@ -4,12 +4,12 @@
                         "maintainer": "ayush",
                         "oem": "Xiaomi",
                         "device": "camellia",
-                        "filename": "risingOS-v1.7-HYDRO-LTS-202510150008-camellia-GAPPS-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/camelliaport/files/hydro/risingOS-v1.7-HYDRO-LTS-202510150008-camellia-GAPPS-OFFICIAL.zip/download",
-                        "timestamp": 1760486821,
-                        "md5": "4451095e013cf23fb171f9e95a5cd1f8",
-                        "sha256": "ca177f2d11d2e2f7805b3fc414acaf5be5e119b0714d2da4809959620bb65d8c",
-                        "size": 1428504896,
+                        "filename": "risingOS-v1.7-HYDRO-LTS-202510150353-camellia-GAPPS-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/camelliaport/files/hydro/risingOS-v1.7-HYDRO-LTS-202510150353-camellia-GAPPS-OFFICIAL.zip/download",
+                        "timestamp": 1760500419,
+                        "md5": "dde1cd7270f98cc2f4dc8b4dc3971403",
+                        "sha256": "a1bf19c1e4b4c77d84130e9f3a293306dd27532bfe8fa0cc0ce7d3b74c4cf437",
+                        "size": 1428604112,
                         "version": "v1.7-HYDRO",
                         "buildtype": "Monthly",
                         "forum": "",
@@ -26,3 +26,4 @@
                 }
         ]
 }
+
