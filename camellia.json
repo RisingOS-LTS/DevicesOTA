@@ -1,28 +1,28 @@
 {
-  "response": [
-    {
-        "maintainer": "ayush",
-        "oem": "Xiaomi",
-        "device": "Camellia",
-        "filename": "risingOS-v1.7-HYDRO-LTS-202510122121-camellia-GAPPS-COMMUNITY.zip",
-        "download": "https://sourceforge.net/projects/camelliaport/files/hydro/risingOS-v1.7-HYDRO-LTS-202510122121-camellia-GAPPS-COMMUNITY.zip/download",
-        "timestamp": 1760304068,
-        "md5": "b8c07b8d9e3d381fada2ff85c7b5e7cc",
-        "sha256": "3ccc2004dbeafe906e4da465fdaf9a7f7e5802d10c0a7c5be81782356c58bd3d",
-        "size": 1428691866,
-        "version": "v1.7-HYDRO",
-        "buildtype": "",
-        "forum": "",
-        "gapps": "",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "",
-        "telegram": "https://t.me/ayushbuildforcamellia",
-        "dt": "",
-        "common-dt": "",
-        "kernel": ""
-    }
-  ]
+        "response": [
+                {
+                        "maintainer": "ayush",
+                        "oem": "Xiaomi",
+                        "device": "camellia",
+                        "filename": "risingOS-v1.7-HYDRO-LTS-202510150008-camellia-GAPPS-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/camelliaport/files/hydro/risingOS-v1.7-HYDRO-LTS-202510150008-camellia-GAPPS-OFFICIAL.zip/download",
+                        "timestamp": 1760486821,
+                        "md5": "4451095e013cf23fb171f9e95a5cd1f8",
+                        "sha256": "ca177f2d11d2e2f7805b3fc414acaf5be5e119b0714d2da4809959620bb65d8c",
+                        "size": 1428504896,
+                        "version": "v1.7-HYDRO",
+                        "buildtype": "Monthly",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/ayushbuildforcamellia",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
 }
