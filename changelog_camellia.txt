@@ -1,3 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: POCO M3 PRO 5G / REDMI NOTE 10 5G (camellia)
+Device maintainer: AYUSH  
+Required firmware: MIUI 14 any region
+
+===== 2025.10.17 =====
+- Media: Limit Max album artwork bitmap size 
+- Added rate limits
+- Added swapiness to 50
+
 ===== 15 October 2025 =====
 • Improve Battery Backup when device is on idle mode
 • Improve animation
