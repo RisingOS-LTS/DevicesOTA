@@ -4,8 +4,8 @@ Device: POCO M3 PRO 5G / REDMI NOTE 10 5G (camellia)
 Device maintainer: AYUSH  
 Required firmware: MIUI 14 any region
 
-===== 2025.10.17 =====
-- Media: Limit Max album artwork bitmap size 
+===== 2025.10.20 =====
+- fixed sound picker crash 
 - Added rate limits
 - Added swapiness to 50
 
