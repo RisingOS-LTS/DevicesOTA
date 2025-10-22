@@ -1,3 +1,11 @@
+===== 22 October 2025 =====
+
+• Fixed Sound picker crash 
+• Fixed battery drain issues
+• Fixed performance issues
+• September Security Patch
+• Improved overall stability
+
 ===== 13 October 2025 =====
 
 • Signed build
